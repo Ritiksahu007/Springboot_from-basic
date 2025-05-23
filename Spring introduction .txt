@@ -1,0 +1,10 @@
+Course name : - Springboot from scratch
+Youtube channel :- https://www.youtube.com/watch?v=9EoAXpjnsxM&list=PLsyeobzWxl7qbKoSgR5ub6jolI8-ocxCF&index=7
+Start date : - 20 may 2025 
+end date : - 7 june 2025
+
+Topic converd
+1. what is spring ?
+2. what is DI and IOC in spring and how use it
+3. what is springboot and why we use ?
+4. How to use DI In springboot.
