@@ -11,7 +11,7 @@ public class FirstApplication {
 
 		ApplicationContext c  = SpringApplication.run(FirstApplication.class, args);
 
-		component co = c.getBean(component.class);
+		Dev co = c.getBean(Dev.class);
 		co.build();
 
 	}
