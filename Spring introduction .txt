@@ -8,3 +8,4 @@ Topic converd
 2. what is DI and IOC in spring and how use it
 3. what is springboot and why we use ?
 4. How to use DI In springboot.
+5.Autorwired and why we use this  date - 24/05/2025
