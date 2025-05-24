@@ -6,7 +6,23 @@ import  org.springframework.stereotype.Component ;
 public class Dev{
 
     @Autowired
-    private Laptop  lappy;
+    //private Laptop  lappy;  // Field injection
+
+    // constructore injection
+    /*
+    private Laptop lappy;
+    public Dev( Laptop lappy){
+        this.lappy =lappy;
+    }
+    */
+
+
+    private Laptop lappy;
+
+    public void setLappy(Laptop lappy) {
+        this.lappy = lappy;
+    }
+
     public void build(){
 
         lappy.compile();
